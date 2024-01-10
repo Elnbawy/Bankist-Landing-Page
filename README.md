@@ -27,3 +27,5 @@ window.scrollTo() <br>
 classList methods like toggle() <br>
 
 <h2>Credits</h2>
+This landing page was built as part of the Udemy course "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann. The HTML, CSS were provided as part of the course. 
+I implemented the DOM functionality and JavaScript per the course instructions.
